@@ -1,3 +1,1 @@
-# Git Demo
-
 learning about git...
